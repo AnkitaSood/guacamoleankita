@@ -11,7 +11,7 @@ import PostAttributes from '../../post-attributes';
   template: `
     @if (post$ | async; as post) {
     <article>
-      <img class="post__image" [src]="post.attributes.coverImage" />
+      <img class="post__image" [src]="post.attributes.coverImage"  alt="post image"/>
       <analog-markdown [content]="post.content" />
     </article>
     }

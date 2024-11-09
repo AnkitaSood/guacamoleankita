@@ -9,7 +9,14 @@ import PostAttributes from '../../post-attributes';
   standalone: true,
   imports: [RouterLink],
   template: `
-    <h1>Blog Archive</h1>
+    <h1>Hey there!</h1>
+    <h2>My name is Ankita Sood</h2>
+    <h3>I am currently adulting in Austin, Texas - and still learning how to survive the aggressive heat
+      and increasing rent prices. Depending on the weather, I can be found outdoors hiking, biking, paddle boarding,
+      trying to pet other peoples' dogs OR staying indoors reading a book. I have an avid interest in all things Design
+      and Angular. I have been a frontend engineer all my adult working life, which is approximately either 10 years or
+      100 years, because I have lost sense of time since the pandemic. </h3>
+
 
     @for (post of posts; track post.attributes.slug) {
     <a [routerLink]="['/blog/', post.attributes.slug]">
@@ -18,18 +25,7 @@ import PostAttributes from '../../post-attributes';
     </a>
     }
   `,
-  styles: `
-    a {
-      text-align: left;
-      display: block;
-      margin-bottom: 2rem;
-    }
-
-    .post__title,
-    .post__desc {
-      margin: 0;
-    }
-  `,
+  styles: ``,
 })
 export default class BlogComponent {
   readonly posts = injectContentFiles<PostAttributes>();
