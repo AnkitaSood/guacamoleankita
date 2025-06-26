@@ -64,9 +64,6 @@ A collection of my talks, presentations, and podcast appearances.
   - Status: Confirmed
 
 ---
-
-*Connect with me on social media!*
-
 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/soodankita)
 - [Twitter](https://twitter.com/GuacamoleAnkita)
