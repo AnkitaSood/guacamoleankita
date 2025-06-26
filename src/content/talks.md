@@ -1,12 +1,73 @@
 ---
-title: My First Post
-slug: 2022-12-27-my-first-post
-description: My First Post Description
-coverImage: https://images.unsplash.com/photo-1493612276216-ee3925520721?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80
+title: Speaking Engagements
+slug: talks
+description: Conference talks, online meetups, and podcast appearances
 ---
 
-# Example Blog Post
+# Speaking Engagements
 
-This is an example blog post written in markdown!
+A collection of my talks, presentations, and podcast appearances.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Conference Talks
+
+### 2024
+- **[Conference Name 2024]** - *Talk Title Here*
+  - [📹 Recording](https://example.com/talk-recording)
+  - [📄 Slides](https://example.com/slides)
+  - Date: Month DD, 2024
+  - Location: City, Country
+
+- **[Another Conference 2024]** - *Another Talk Title*
+  - [📹 Recording](https://example.com/talk-recording-2)
+  - [📄 Slides](https://example.com/slides-2)
+  - Date: Month DD, 2024
+  - Location: Virtual/City, Country
+
+### 2023
+- **[Conference Name 2023]** - *Previous Talk Title*
+  - [📹 Recording](https://example.com/previous-talk)
+  - [📄 Slides](https://example.com/previous-slides)
+  - Date: Month DD, 2023
+  - Location: City, Country
+
+## Meetup Presentations
+
+- **[Local Tech Meetup]** - *Meetup Talk Title*
+  - [📹 Recording](https://example.com/meetup-recording)
+  - [📄 Slides](https://example.com/meetup-slides)
+  - Date: Month DD, 2024
+  - Location: City, Country
+
+- **[Online Developer Community]** - *Virtual Presentation Title*
+  - [📹 Recording](https://example.com/virtual-meetup)
+  - [📄 Slides](https://example.com/virtual-slides)
+  - Date: Month DD, 2024
+  - Location: Virtual
+
+## Podcast Appearances
+
+- **[Podcast Name]** - Episode: *"Episode Title Here"*
+  - [🎧 Listen](https://example.com/podcast-episode)
+  - Date: Month DD, 2024
+  - Duration: XX minutes
+
+- **[Another Podcast]** - Episode: *"Another Episode Title"*
+  - [🎧 Listen](https://example.com/another-podcast)
+  - Date: Month DD, 2024
+  - Duration: XX minutes
+
+## Upcoming Speaking Engagements
+
+- **[Future Conference]** - *Upcoming Talk Title*
+  - Date: Month DD, 2024
+  - Location: City, Country
+  - Status: Confirmed
+
+---
+
+*Connect with me on social media!*
+
+**Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/soodankita)
+- [Twitter](https://twitter.com/GuacamoleAnkita)
+- [Bluesky](https://bsky.app/profile/ankitasood.bsky.social)
