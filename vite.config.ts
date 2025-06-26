@@ -16,6 +16,7 @@ export default defineConfig(({ mode }) => ({
       content: {
         highlighter: 'shiki',
       },
+      static: true,
       prerender: {
         routes: async () => [
           '/',
