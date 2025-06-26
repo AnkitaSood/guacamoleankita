@@ -17,5 +17,5 @@
 }
 
 .analog-markdown p {
-  text-align: left;
+  text-wrap: pretty;
 }
