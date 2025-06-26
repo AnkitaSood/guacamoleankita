@@ -13,13 +13,13 @@ import {RouterOutlet, RouterLink, RouterLinkActive} from '@angular/router';
           </div>
           <ul class="nav-menu">
             <li class="nav-item">
-              <a [routerLink]="'/'" class="nav-link" routerLinkActive="active">About Me</a>
+              <a [routerLink]="'/'" class="nav-link" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">About Me</a>
             </li>
             <li class="nav-item">
               <a [routerLink]="'/talks'" class="nav-link" routerLinkActive="active">Talks</a>
             </li>
             <li class="nav-item">
-              <a [routerLink]="'/blog'" class="nav-link" routerLinkActive="active">Posts</a>
+              <a [routerLink]="'/blogs'" class="nav-link" routerLinkActive="active">Posts</a>
             </li>
           </ul>
         </div>
